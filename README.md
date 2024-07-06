@@ -9,6 +9,10 @@ Customized Data Handling: Developed custom data handling scripts to aggregate an
 Interactive Visualizations: Used Matplotlib for visualizations, ensuring clarity and interactivity in presenting growth trends across districts.
 Error Handling and Optimization: Implemented robust error handling and optimized data processing pipelines to manage large datasets efficiently.
 
+
+![image](https://github.com/shantanu-777/PayPulse/assets/95078686/bb44b9be-feec-4423-a6b3-5c5fe524d4e8)
+
+
 Technologies Used -
 
 Python: Core programming language for data analysis and visualization.

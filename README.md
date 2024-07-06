@@ -11,6 +11,7 @@ Error Handling and Optimization: Implemented robust error handling and optimized
 
 
 ![image](https://github.com/shantanu-777/PayPulse/assets/95078686/bb44b9be-feec-4423-a6b3-5c5fe524d4e8)
+![image](https://github.com/shantanu-777/PayPulse/assets/95078686/d263a6ca-8659-4b41-95f0-1955795dd550)
 
 
 Technologies Used -
@@ -23,6 +24,9 @@ Project Structure
 Main Folder: Contains sub-folders for each year (2018 to 2024).
 Yearly Sub-folders: Each contains JSON files (1.json to 4.json) with district-wise user registration data.
 Scripts: Python scripts for data extraction, processing, and visualization.
+
+![image](https://github.com/shantanu-777/PayPulse/assets/95078686/957e6646-2e2b-4215-8fd0-da80fc2d88ba)
+
 
 Future Improvements
 Incorporate advanced statistical analysis techniques.
